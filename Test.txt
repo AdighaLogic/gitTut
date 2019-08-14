@@ -1,1 +1,3 @@
 This is my first test file from command line
+
+Added one more line
