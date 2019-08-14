@@ -2,6 +2,7 @@
 
 Welcome to learning Git
 
+
 Sample-1
 Sample-2
 Sample-3
@@ -9,5 +10,10 @@ Sample-4
 Sample-5
 Sample-6
 
+Sample-1.1
+Sample-2.1
+Sample-3.1
+
+
 End
-Done my changes
+Final Copy
